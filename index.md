@@ -2,7 +2,7 @@
 
 I am a RPA Developer with an experience of over 3 years. I have hands on experience working with web automation, excel automation and Sap Automation. Certified in Blueprism(AD01) and Automation Anywhere Certified Advanced RPA Professional by AA University
 
- Had extensive client interaction in the various projects executed and have received accolades for 
+Had extensive client interaction in the various projects executed and have received accolades for 
 the same.
 
 ### Markdown
